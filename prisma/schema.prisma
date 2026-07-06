@@ -1,0 +1,87 @@
+// Mamauba Capital Platform — Prisma schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Campaign {
+  id          String     @id @default(cuid())
+  slug        String     @unique
+  title       String
+  titleEn     String
+  titlePt     String
+  description String
+  descEn      String
+  descPt      String
+  category    String
+  goal        Int
+  raised      Int        @default(0)
+  backers     Int        @default(0)
+  cover       String?
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  donations   Donation[]
+}
+
+model Donation {
+  id          String    @id @default(cuid())
+  campaignId  String?
+  campaign    Campaign? @relation(fields: [campaignId], references: [id])
+  amount      Int
+  currency    String    @default("USD")
+  frequency   String    @default("once") // once | monthly
+  donorName   String
+  donorEmail  String
+  donorCountry String?
+  taxCert     Boolean   @default(false)
+  status      String    @default("pending") // pending | paid | failed
+  stripeRef   String?
+  createdAt   DateTime  @default(now())
+}
+
+model Convocatoria {
+  id         String        @id @default(cuid())
+  name       String
+  funder     String
+  country    String
+  language   String        // es | en | pt | fr | ...
+  maxAmount  Int
+  currency   String        @default("USD")
+  deadline   String
+  category   String
+  eligibility String
+  url        String?
+  createdAt  DateTime      @default(now())
+  applications Application[]
+}
+
+model Application {
+  id            String       @id @default(cuid())
+  convocatoriaId String
+  convocatoria  Convocatoria @relation(fields: [convocatoriaId], references: [id])
+  status        String       @default("draft") // draft | submitted | approved | rejected
+  pitchMd       String?
+  checklistJson String?
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+}
+
+model Subscriber {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  createdAt DateTime @default(now())
+}
+
+model Movement {
+  id        String   @id @default(cuid())
+  type      String   // in | out
+  amount    Int
+  currency  String   @default("USD")
+  concept   String
+  date      DateTime @default(now())
+}

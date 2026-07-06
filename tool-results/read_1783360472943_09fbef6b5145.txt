@@ -1,0 +1,496 @@
+     1→==== camscan-1.json ====
+     2→### Certificado de Existencia y Representación Legal  
+     3→- **Entidad certificadora**: CÁMARA DE COMERCIO ABURRA SUR  
+     4→- **Tipo de documento**: CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN LEGAL  
+     5→- **Fecha expedición**: 27/12/2022 - 15:40:50  
+     6→- **Recibo No.**: S001338572  
+     7→- **Valor**: 6500  
+     8→- **Código de verificación**: fzmpFuE15U  
+     9→- **Verificación**: Ingresar a https://sii.confecamaras.co/vista/plantilla/cv.php?empresa=55 y digitar el código. La verificación es ilimitada durante 60 días calendario a partir de la fecha de expedición.  
+    10→- **Consulta en RUES**: Disponible en www.rues.org.co.  
+    11→
+    12→
+    13→### Información de la Empresa  
+    14→- **Tamaño de empresa**: MICRO EMPRESA (conforme al artículo 2.2.1.13.2.1 del Decreto 1074 de 2015 y la Resolución 2225 de 2019 del DANE).  
+    15→- **Ingresos por actividad ordinaria**: $0  
+    16→- **Actividad económica (CIIU)**: S9499  
+    17→
+    18→
+    19→### Información Complementaria – Reporte a Entidades  
+    20→- **Punto a)**: Los datos del empresario y/o establecimiento de comercio han sido puestos a disposición de la Policía Nacional a través de la consulta a la base de datos del RUES.  
+    21→- **Punto b)**: Se realizó la inscripción de la empresa y/o establecimiento en el Registro de Identificación Tributaria (RIT).  
+    22→
+    23→
+    24→### Firma y Validación  
+    25→- **Firma digital**: Emitida por una entidad de certificación abierta autorizada y vigilada por la Superintendencia de Industria y Comercio, conforme a la Ley 527 de 1999.  
+    26→- **Firma mecánica**: Representación gráfica de la firma del secretario jurídico (o quien haga sus veces) de la Cámara de Comercio. No reemplaza la firma digital en documentos electrónicos.  
+    27→- **Verificación de firma**: A través del visor de documentos PDF.  
+    28→- **Secretario**: Walter Ortiz Montoya  
+    29→
+    30→
+    31→### Nota Final  
+    32→- **Página**: 6 de 6
+    33→
+    34→==== camscan-2.json ====
+    35→# Información Extraída del Documento
+    36→
+    37→## Datos Generales
+    38→- **Entidad Expedidora**: CÁMARA DE COMERCIO ABURRA SUR
+    39→- **Documento**: CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN LEGAL
+    40→- **Fecha Expedición**: 27/12/2022 - 15:40:50
+    41→- **Recibo No.**: S001338572
+    42→- **Valor**: 6500
+    43→- **Código de Verificación**: fzMPFuE15U
+    44→- **Página**: 5 de 6
+    45→
+    46→## Verificación de Contenido
+    47→- **URL de Verificación**: https://sii.confecamaras.co/vista/plantilla/cv.php?empresa=55
+    48→- **Plazo de Verificación**: 60 días calendario a partir de la fecha de expedición
+    49→- **Días No Hábiles**: Sábados (para la CÁMARA DE COMERCIO ABURRA SUR)
+    50→
+    51→## Representantes Legales
+    52→- **Cargo**: DIRECTOR EJECUTIVO
+    53→  - **Nombre**: UBANIA BURBANO FLOREZ
+    54→  - **Identificación**: C.C. No. 34.526.729
+    55→- **Cargo**: SUPLENTE DEL DIRECTOR EJECUTIVO
+    56→  - **Nombre**: ADRIANA PATRICIA MONTOYA CUARTAS
+    57→  - **Identificación**: C.C. No. 1.037.577.450
+    58→
+    59→## Actos de Inscripción
+    60→- **Acta de Designación**: 26 de octubre de 2022 (Asamblea de Corporados)
+    61→- **Inscripción**: 12 de diciembre de 2022
+    62→- **Libro de Registro**: Libro I del Registro de Entidades sin Ánimo de Lucro
+    63→- **Número de Inscripción**: 14186
+    64→- **Estado de Recursos**: NO se encuentra en curso ningún recurso a la fecha y hora de expedición
+    65→
+    66→## Actividades Económicas (CIIU)
+    67→- **Actividad Principal**: Código CIIU S9499
+    68→- **Actividad Secundaria**: No reportó
+    69→- **Otras Actividades**: No reportó
+    70→
+    71→## Observaciones
+    72→- **Establecimientos**: La información corresponde a los establecimientos de comercio, agencias y sucursales matriculados en otras cámaras de comercio del país (no especificados en este documento)
+    73→
+    74→==== camscan-3.json ====
+    75→- **Cámara de Comercio**: CÁMARA DE COMERCIO ABURRA SUR  
+    76→- **Documento**: CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN LEGAL  
+    77→- **Fecha expedición**: 27/12/2022 - 15:40:50  
+    78→- **Recibo No.**: S001338572  
+    79→- **Valor**: 6500  
+    80→- **Código de verificación**: fzmpFuE15U  
+    81→- **Verificación**: Ingresar a https://sii.confecamaras.co/vista/plantilla/cv.php?empresa=55 y digitar el código; verificación ilimitada durante 60 días calendario a partir de la fecha de expedición.  
+    82→- **Funciones (selección)**:  
+    83→  - Celebrar operaciones con compañías aseguradoras para protección de bienes, actividades y personal.  
+    84→  - Intervenir en la formación de corporaciones sin ánimo de lucro o fundaciones de interés general o social.  
+    85→  - Celebrar o ejecutar contratos o actos preparatorios, complementarios o accesorios necesarios para el buen desarrollo de funciones.  
+    86→  - Celebrar convenios con gobierno nacional, departamental, municipal, países extranjeros u organizaciones no gubernamentales para actividades del objeto principal.  
+    87→  - Participar en licitaciones con empresas privadas o el estado.  
+    88→- **Patrimonio**: $1.000.000,00  
+    89→- **Representación legal**: Director ejecutivo (será el representante legal, con un suplente).  
+    90→- **Facultades y limitaciones del representante legal (director ejecutivo)**:  
+    91→  - Representar a la corporación judicial y extrajudicialmente, constituir apoderados cuando sea necesario.  
+    92→  - Efectuar gastos, celebrar contratos, adquirir y enajenar bienes muebles e inmuebles, solicitar autorización a la Asamblea General según reglamentación.  
+    93→  - Ejercer delegaciones conferidas por la Asamblea General.  
+    94→  - Someter a la aprobación de la Asamblea General la creación, ampliación o disminución de la planta de personal.  
+    95→  - Mantener informada a la Asamblea General sobre la marcha de la corporación.  
+    96→  - Asistir a las sesiones de la Asamblea General, con derecho a voz y sin voto.  
+    97→- **Página**: Página 4 de 6
+    98→
+    99→==== camscan-4.json ====
+   100→# Información Extraída del Documento
+   101→
+   102→## Datos Generales
+   103→- **Entidad Emisora**: CÁMARA DE COMERCIO ABURRA SUR
+   104→- **Documento**: CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN LEGAL
+   105→- **Fecha Expedición**: 27/12/2022 - 15:40:50
+   106→- **Recibo No.**: S001338572
+   107→- **Valor**: 6500
+   108→- **Código de Verificación**: izmPFuE15U
+   109→- **Página**: 3 de 6
+   110→
+   111→## Actividades y Objetivos Corporativos
+   112→- Contribuir a la promoción nacional e internacional de las regiones, sus empresas y posibilidades empresariales
+   113→- Trabajar en obras de beneficencia en general
+   114→- Fomentar y apoyar la educación en general, especialmente la infantil; el civismo, la recreación, el deporte y la cultura en sus diferentes manifestaciones
+   115→- Propiciar el desarrollo de las regiones ocupadas por indígenas, negritudes y los grupos LGBTIQ+, apoyar y crear empresas con su propia producción para mejorar la calidad de vida
+   116→- Impulsar y promover la participación efectiva de la industria e ingeniería Colombianas en los proyectos desarrollados por la corporación
+   117→- Establecer y operar empresas de transporte férreo de carga inicialmente y posteriormente también de pasajeros
+   118→- Coordinar y gestionar la formulación de proyectos empresariales para ofrecer servicios de carga multimodales, que permitan a los industriales y a los usuarios del transporte de carga disponer de alternativas eficientes y económicas
+   119→- Coordinar y gestionar proyectos desde la corporación que conduzcan al mejoramiento integral de la salud, educación, vivienda, autoabastecimiento alimentario, recreación y cultura de las comunidades asentadas a lo largo de los ejes geoestratégicos
+   120→- Destinar los excedentes financieros generados en el desempeño empresarial de los proyectos formulados desde la corporación, hacia nuevos proyectos para el desarrollo de las diferentes regiones del país
+   121→
+   122→## Poderes Corporativos
+   123→Para el desarrollo de sus funciones y en cuanto a lo relacionado a las mismas, la corporación podrá:
+   124→- a) Adquirir, enajenar, gravar, dar o tomará en arrendamiento o en cualquier otro título bienes muebles e inmuebles
+   125→- b) Intervenir como acreedor o deudor en toda clase de operaciones de crédito, recibiendo o dando garantías del caso, cuando haya lugar a ellas
+   126→- C) Girar, endosar, aceptar, cobrar, descontar y negociar en general toda clase de títulos valores y cualquier clase de créditos
+   127→- d) Celebrar con establecimientos de crédito toda clase de operaciones como, depósitos, préstamos, descuentos, giros, contratos de cuenta corriente, etc.
+   128→- e) Celebrar contratos con personas naturales o jurídicas, sean nacionales o extranjeras, dentro de las normas de la legislación Colombiana y su propio reglamento
+   129→
+   130→## Verificación
+   131→- URL de verificación: https://sii.confecamaras.co/vista/plantilla/cv.php?empresa=55
+   132→- Código de verificación: izmPFuE15U
+   133→- Período de verificación: 60 días calendario contados a partir de la fecha de expedición
+   134→
+   135→==== camscan-5.json ====
+   136→# Información Extraída del Documento
+   137→
+   138→## Datos Generales
+   139→- **Entidad que expide el documento**: CÁMARA DE COMERCIO ABRURRA SUR
+   140→- **Tipo de documento**: CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN LEGAL
+   141→- **Fecha de expedición**: 27/12/2022 - 15:40:50
+   142→- **Recibo No.**: S001338572
+   143→- **Valor**: 6500
+   144→- **Código de verificación**: fzmpFue15U
+   145→- **URL de verificación**: https://sii.confecamaras.co/vista/plantilla/cv.php?empresa=55
+   146→- **Plazo de verificación**: 60 días calendario a partir de la fecha de expedición
+   147→
+   148→## Datos de la Entidad
+   149→- **Tipo de entidad**: Entidad Sin Ánimo de Lucro
+   150→- **Fecha de obtención de personería jurídica**: 12 de diciembre de 2022
+   151→- **Número de personería jurídica**: 55.0000002409.12
+   152→- **Entidad que otorgó la personería**: CÁMARA DE COMERCIO
+   153→- **Entidad que ejerce inspección, vigilancia y control**: GOBERNACIÓN DE ANTIOQUIA
+   154→- **Término de duración**: Hasta el 11 de diciembre de 2072
+   155→- **Estado de la entidad**: No se encuentra disuelta
+   156→
+   157→## Objetivo Social
+   158→- **Objetivo general**: Promover y trabajar hombro con hombro para el desarrollo social integral sostenible, de los campesinos, indígenas, afros y LGBTIQ+, concebido como el proceso colectivo, generado desde indígenas, afros y LGBTIQ+, concebido como el proceso colectivo, generado desde la región domiciliada de la corporación, para el mejoramiento del territorio y de la calidad de vida de los grupos humanos, aprovechando sus ventajas y valores regionales y nacionales, con el fin de generar riqueza en todas las dimensiones del hombre, ayudar o crear la forma de protección de las cuencas de los ríos.
+   159→
+   160→- **Objetivos específicos**:
+   161→  - Trabajar la seguridad alimentaria y el desarrollo social integral, ambiental, de las comunidades campesinas, indígenas, afro descendiente y LGBTIQ+.
+   162→  - Contribuir a la construcción de regiones atractivas, productivas, competitivas y solidarias.
+   163→  - Participar en la rehabilitación y explotación económica de los ejes geoestratégicos como son el cambio climático, generación de bienes públicos, ciencia - tecnología e innovación, desarrollo social, desarrollo económico, líneas férreas, líneas fluviales, carreteras para el desarrollo de cualquier parte del país.
+   164→  - Ayudar y contribuir a la construcción de una cultura para el desarrollo mediante el impulso de una aducción regional pertinente.
+   165→  - Generar infraestructura de investigación y desarrollo para los sectores escogidos.
+   166→  - Propiciar la articulación de las empresas de la región con el eje geoestratégico y los programas y proyectos para el desarrollo con las especificidades culturales y ambientales de cada región.
+   167→  - Propiciar la reestructuración de los sectores productivos en actividades y explorar e impulsar las nuevas industrias y servicios.
+   168→
+   169→## Información Adicional
+   170→- **Página del documento**: Página 2 de 6
+   171→
+   172→==== camscan-6.json ====
+   173→### CÁMARA DE COMERCIO ABURRA SUR  
+   174→- **Documento**: CERTIFICADO DE EXISTENCIA Y REPRESENTACIÓN LEGAL  
+   175→- **Fecha expedición**: 27/12/2022 - 15:40:50  
+   176→- **Recibo No.**: S001338572  
+   177→- **Valor**: 6500  
+   178→- **CÓDIGO DE VERIFICACIÓN**: fzmpFuE15U  
+   179→
+   180→
+   181→### INFORMACIÓN DE LA ENTIDAD  
+   182→- **Razón Social**: CORPORACIÓN MAMAUBA  
+   183→- **Nit**: 901662513-5  
+   184→- **Domicilio**: Envigado, Antioquia  
+   185→
+   186→
+   187→### INSCRIPCIÓN  
+   188→- **Inscripción No.**: S0002409  
+   189→- **Fecha de inscripción**: 12 de diciembre de 2022  
+   190→- **Último año renovado**: 2022  
+   191→- **Fecha de renovación**: 12 de diciembre de 2022  
+   192→- **Grupo NIIF**: GRUPO III - MICROEMPRESAS  
+   193→
+   194→
+   195→### UBICACIÓN  
+   196→- **Dirección del domicilio principal**: CR 40 A 40 F SUR 51 IN 103 ED VILLAMERCED  
+   197→- **Municipio**: Envigado, Antioquia  
+   198→- **Correo electrónico**: ubaniabf@gmail.com  
+   199→- **Teléfono comercial 1**: 3016906973  
+   200→- **Teléfono comercial 2**: No reportó  
+   201→- **Teléfono comercial 3**: No reportó  
+   202→
+   203→- **Dirección para notificación judicial**: CR 40 A 40 F SUR 51 IN 103 ED VILLAMERCED  
+   204→- **Municipio (notificación)**: Envigado, Antioquia  
+   205→- **Correo electrónico de notificación**: ubaniabf@gmail.com  
+   206→- **Teléfono para notificación 1**: 3016906973  
+   207→- **Teléfono notificación 2**: No reportó  
+   208→- **Teléfono notificación 3**: No reportó  
+   209→
+   210→
+   211→### CONSTITUCIÓN  
+   212→- **Acta de constitución**: 26 de octubre de 2022 (Asamblea De Corporados de Envigado)  
+   213→- **Inscripción de constitución**: 12 de diciembre de 2022 (Cámara de Comercio, Libro I del Registro de Entidades sin Ánimo de Lucro, No. 14186)  
+   214→- **Denominación**: CORPORACIÓN MAMAUBA (persona jurídica del sector solidario)  
+   215→
+   216→
+   217→### PERSONERÍA JURÍDICA  
+   218→- **Página**: 1 de 6
+   219→
+   220→==== mamauba-1.json ====
+   221→### Nombres y Representantes Legales
+   222→- **Presidente**: Ubania Burbano Flórez
+   223→  - Cédula de ciudadanía: N° 34.526.729
+   224→  - Expedida en: Popayán
+   225→- **Secretaria**: Leidy Juliet Robledo
+   226→  - Cédula de ciudadanía: N° 43.185.312
+   227→  - Expedida en: Itagüí
+   228→
+   229→### Empresa
+   230→- **Denominación**: Corporación MAMAUBA
+   231→- **Tipo**: Corporación sin ánimo de lucro
+   232→
+   233→### Actividad Económica
+   234→- **Objetivo general**: Promover y trabajar hombro con hombro para el desarrollo social integral sostenible de los campesinos, indígenas, afros y LGBTIQ+, concebido como el proceso colectivo, generado desde
+   235→- **Objetivo específico**: Trabajar y promover hombro a hombro por el desarrollo social integral sostenible de los campesinos, indígenas, afros y LGBTIQ+ de Colombia, buscando la ayuda de los demás países del mundo.
+   236→
+   237→### Domicilio
+   238→- **Dirección**: Cra 40 A # 40 F sur-51, interior 103, edificio villamerced en Envigado Antioquia
+   239→- **Ciudad**: Envigado
+   240→- **Departamento**: Antioquia
+   241→
+   242→### Fechas
+   243→- **Reunión de Asamblea General**: 26 de octubre de 2022, a las 2pm
+   244→
+   245→### Estructura y Órganos
+   246→- **Órganos designados en la Asamblea**:
+   247→  1. Director ejecutivo
+   248→  2. Secretario de la Asamblea General
+   249→
+   250→### Estatutos
+   251→- **Capítulo**: Capítulo I
+   252→- **Artículo 1**: La entidad regulada por estos Estatutos se denominará Corporación MAMAUBA.
+   253→- **Artículo 2**: La Corporación tiene su domicilio en la ciudad de Envigado, Departamento de Antioquia en la cra 40A # 40Fsur-51, interior 103, edificio villamerced el dorado Envigado, y ejercerá sus actividades en el territorio Colombiano y en otros países cuando así lo requiera el desarrollo de sus programas.
+   254→- **Artículo 3**: El Objetivo general de la CORPORACIÓN es: promover y trabajar hombro con hombro para el desarrollo social integral sostenible, de los campesinos, indígenas, Afros y LGBTIQ+, concebido como el proceso colectivo, generado desde
+   255→
+   256→### Otros Datos
+   257→- **Orden del día de la Asamblea**:
+   258→  1. Designación de director ejecutivo y Secretario de la Asamblea General
+   259→  2. Constitución de la Corporación sin ánimo de lucro
+   260→  3. Aprobación de Estatutos
+   261→  4. Aprobación del acta.
+   262→
+   263→==== mamauba-2.json ====
+   264→ARTICULO 4. Los objetivos específicos de la CORPORACIÓN son:
+   265→- Trabajar la seguridad alimentaria y el desarrollo social integral, ambiental, de las comunidades campesinas, indígenas, afro descendiente y LGBTIQ+
+   266→- Contribuir a la construcción de regiones atractivas, productivas, competitivas y solidarias.
+   267→- Participar en la rehabilitación y explotación económica de los ejes geoestratégicos como son el cambio climático, generación de bienes públicos, ciencia - tecnología e innovación, desarrollo social, desarrollo económico, líneas férreas, líneas fluviales, carreteras para el desarrollo de cualquier parte del País.
+   268→- Ayudar y contribuir a la construcción de una cultura para el desarrollo mediante el impulso de una aducción regional pertinente.
+   269→- Generar infraestructura de investigación y desarrollo para los sectores escogidos.
+   270→- Propiciar la articulación de las empresas de la región con el eje geoestratégico y los programas y proyectos para el desarrollo con las especificidades culturales y ambientales de cada región.
+   271→- Propiciar la reestructuración de los sectores productivos en actividades y explorar e impulsar las nuevas industrias y servicios.
+   272→- Contribuir a la promoción nacional e internacional de las regiones, sus empresas y posibilidades empresariales.
+   273→- Trabajar en obras de beneficencia en general.
+   274→- Fomentar y apoyar la Educación en general, y es especial la infantil; el civismo, la recreación, el deporte y la cultura en sus diferentes manifestaciones.
+   275→- Propiciar el desarrollo de las regiones ocupadas por Indígenas, Negritudes y los grupos LGBTIQ+, apoyar y crear empresas con su propia producción para mejorar la calidad de vida.
+   276→- Impulsar y promover la participación efectiva de la industria e ingeniería Colombianas en los proyectos desarrollados por la corporación.
+   277→- Establecer y operar empresas de transporte férreo de carga inicialmente y posteriormente también de pasajeros.
+   278→- Coordinar y gestionar la formulación de proyectos empresariales para ofrecer servicios de carga multimodales, que permitan a los industriales y a los usuarios del transporte de carga disponer de alternativas eficientes y económicas.
+   279→- Coordinar y gestionar proyectos desde la Corporación que conduzcan al mejoramiento integral de la salud, educación, vivienda, autoabastecimiento alimentario, recreación y cultura de las comunidades asentadas a lo largo de los ejes geoestratégicos.
+   280→- Destinar los excedentes financieros generados en el desempeño empresarial de los proyectos formulados desde la Corporación, hacia nuevos proyectos para el desarrollo de las diferentes regiones del País.
+   281→
+   282→==== mamauba-3.json ====
+   283→### Información clave extraída del documento:
+   284→
+   285→#### **Artículo 5°: Corporación sin ánimo de lucro**
+   286→- **Patrimonio inicial**: Un millón de pesos colombianos ($1.000.000,00).
+   287→- **Origen del patrimonio**: Aporte de los socios fundadores, donaciones y prestación de servicios relacionados con su objeto general.
+   288→- **Restricción de patrimonio**: Los excedentes o superávit no podrán pasar a personas naturales o entidades sin ánimo de lucro.
+   289→- **Destino del superávit**: Aumentar su propio patrimonio para contribuir a sus objetivos.
+   290→- **Renuncia a reparto de utilidades**: Los asociados renuncian al reparto de utilidades o reembolso de aportes en caso de retiro o disolución.
+   291→
+   292→#### **Artículo 6°: Duración de la Corporación**
+   293→- **Término**: 50 años contados a partir del Registro de la Cámara de Comercio.
+   294→- **Disolución**: Puede ser disuelta y liquidada por la Asamblea General de acuerdo con los estatutos.
+   295→
+   296→#### **Artículo 7°: Asociados**
+   297→- **Domicilio**: Envigado, Antioquia.
+   298→- **Tipos de asociados**: Asociados Fundadores y Asociados Adherentes.
+   299→- **Asociado Fundador**:
+   300→  - **Identificación**: 4.611.382
+   301→  - **Nombres y apellidos**: Julián Rodrigo Piamba Burbano
+   302→  - **Domicilio**: Envigado.
+   303→
+   304→==== mamauba-4.json ====
+   305→```markdown
+   306→| NIT         | Nombre Completo               | Cargo     |
+   307→|-------------|------------------------------|-----------|
+   308→| 10.290.386   | Alexander Piamba Burbano      | Envigado  |
+   309→| 34.321.364   | Marta Isabel Piamba Burbano   | Envigado  |
+   310→| 34.321.364   | Ubania Burbano Flórez         | Envigado  |
+   311→| 10.534.619   | Ovidio Gentil Piamba Piamba   | Envigado  |
+   312→
+   313→**Adherentes**  
+   314→- Hijos y los hijos de estos serán Socios Adherentes  
+   315→- Esposos y esposas de los hijos de los asociados (si los hubiere y mientras mantengan la condición de Cónyuge)  
+   316→
+   317→**Órganos de Dirección y Administración**  
+   318→- La Corporación se administra por:  
+   319→  - La Asamblea General  
+   320→  - El director Ejecutivo (representante legal)  
+   321→
+   322→**Asamblea General**  
+   323→- **Artículo 9°**: Integrada por los asociados activos, es el máximo organismo de deliberación y control de la Entidad.  
+   324→- **Artículo 10°**:  
+   325→  - Reuniones ordinarias: Dentro del primer semestre de cada año.  
+   326→  - Convocatoria: Por el Presidente de la Asamblea General con 15 días hábiles de anticipación (comunicación escrita: fax, correo electrónico o correo regular).  
+   327→  - Reuniones extraordinarias: Por convocatoria de la Asamblea General, Director Ejecutivo, Fiscal o al menos 50% de los miembros. Convocatoria con 5 días de anticipación (o sin plazo si todos los asociados están presentes).  
+   328→  - Quórum deliberatorio: Mayoría de miembros (no inferior al 35% si no hay mayoría absoluta) y transcurrida 1 hora después de la citación.  
+   329→  - Secciones: Dirigidas por un presidente elegido para tal efecto.  
+   330→  - Citación: Escrito a cada socio con 15 o 5 días hábiles de anticipación según el tipo de reunión.  
+   331→- **PARÁGRAFO**: Si los participantes representan menos del 35% de los miembros, se convoca a una nueva Asamblea dentro de 15 días siguientes (sesiona con número plural de asistentes).  
+   332→- **Artículo 11° (Atribuciones)**:  
+   333→  - Designar y remover libremente los miembros de la Corporación.  
+   334→  - Examinar y aprobar o desaprobar los balances y demás estados financieros presentados por la Asamblea General.  
+   335→  - Reformar los Estatutos (requiere quórum decisório no inferior al 80% de los Asociados activos).  
+   336→```
+   337→
+   338→==== mamauba-5.json ====
+   339→- **Representante Legal (suplente)**: Adriana Patricia Montoya Cuartas  
+   340→  - Cédula de ciudadanía: N° 1037.577.450  
+   341→  - Domicilio: Envigado, en la calle 40 sur #24 F-83-Mirador de Ayurá el salado Envigado  
+   342→  - Celular: N° 320.887.5008  
+   343→  - Correo: amcuartas11@hotmail.com  
+   344→
+   345→- **Director Ejecutivo**: Ubania Burbano Flórez  
+   346→  - Cédula de ciudadanía: N° 34526729
+   347→
+   348→==== mamauba-6.json ====
+   349→### CAPITULO V  
+   350→### FISCAL  
+   351→
+   352→**Artículo 15**  
+   353→- La CORPORACIÓN tendrá un Fiscal Principal de libre nombramiento y remoción por la Asamblea General.  
+   354→
+   355→**Artículo 16**  
+   356→- El Fiscal, deberá ser cualquier persona, y estará sujetos a las inhabilidades y prohibiciones, incompatibilidades y responsabilidades que establecen las leyes.  
+   357→- El Fiscal no pueden ser miembros de la Corporación ni estar ligados con parentesco dentro del segundo grado de consanguinidad ni segundo de afinidad con los miembros de la Asamblea General ni con el director Ejecutivo.  
+   358→
+   359→**Artículo 17**  
+   360→- Son Funciones del Fiscal:  
+   361→  - Verificar que las operaciones celebradas por la cuenta de la Corporación se ajusten a las prescripciones de los estatutos y a las decisiones tanto de la Asamblea General.  
+   362→  - Dar cuenta oportunamente, por escrito a la Asamblea General, o al Director ejecutivo. Según el caso, de las irregularidades que ocurran en el funcionamiento de la corporación y en el desarrollo de su objeto social.  
+   363→  - Colaborar con las entidades oficiales que ejercen la vigilancia fiscal y tributaria y rendirles todos los informes a que haya lugar.  
+   364→  - Velar porque se lleven regularmente la contabilidad de la corporación y las actas de las reuniones tanto de la Asamblea General, como de la y porque se conserven debidamente la correspondencia de la Entidad y los comprobantes de las cuentas, para lo cual impartirá las instrucciones necesarias.  
+   365→  - Inspeccionar periódicamente los bienes de la Corporación y procurar que se tomen oportunamente las medidas de conservación o seguridad de los mismos y de los que ella tenga en custodia o a cualquier oro título.  
+   366→  - Impartir las órdenes, practicar las inspecciones y solicitar los informes que sean necesarios para establecer un control permanente sobre los valores o bienes de la Corporación.  
+   367→  - Autorizar con su firma cualquier balance que se haga, acompañado de su dictamen o informe correspondientes.  
+   368→  - Cumplir las demás atribuciones que le señalan las leyes o los estatutos y las que recomiende la Asamblea General siempre que sean compatibles con aquellos.  
+   369→
+   370→
+   371→### CAPITULO VIII  
+   372→### REFORMA DE ESTATUTOS Y DISOLUCIÓN  
+   373→
+   374→**Artículo 18**  
+   375→- Los presentes estatutos solo podrán ser reformados por la Asamblea General.  
+   376→
+   377→**Artículo 19**  
+   378→- La Asamblea General podrá decretar la DISOLUCIÓN DE LA CORPORACIÓN de conformidad con lo establecido en los artículos 5° y 10° de estos estatutos, siempre y cuando la Asamblea General hubiera tomado dicha decisión en dos sesiones consecutivas, mediando entre ellas un período no inferior
+   379→
+   380→==== mamauba-7.json ====
+   381→### Representantes legales
+   382→- **Ubania Burbano Flórez**  
+   383→  - C.C. N°: 34.526.729 (Popayán)  
+   384→  - Celular: 3016906973  
+   385→  - Correo: ubaniaf@gmail.com  
+   386→  - Cargo: Presidente  
+   387→
+   388→- **Leidy Juliet Robledo**  
+   389→  - C.C. N°: 43.185.312 (Itagüí)  
+   390→  - Celular: 3042937909  
+   391→  - Correo: leidyrobledo@hotmail.com / leidyrobledo@otmail.com  
+   392→  - Cargo: Secretaria  
+   393→
+   394→### Aprobación del acta
+   395→- El acta fue aprobada por unanimidad.  
+   396→- Hora de finalización de la Asamblea General: 7 pm.  
+   397→
+   398→### Otros datos
+   399→- El documento es una "fidel copia" del original.  
+   400→- Los estatutos rigen desde la fecha de su aprobación.  
+   401→- Los estatutos fueron leídos y aprobados en su totalidad.  
+   402→
+   403→### Artículos clave (sin datos específicos de nombres/finanzas, pero relevantes para el contexto)
+   404→- **Artículo 20**: Si la Asamblea General no designa otro liquidador, el Director Ejecutivo asumirá funciones de liquidador.  
+   405→- **Artículo 21**: Los bienes de la corporación, en caso de disolución, pasarán a una institución sin ánimo de lucro con fines similares (determinada por la Asamblea General).  
+   406→- **Artículo 22**: Causales de liquidación:  
+   407→  - a) Pérdida o destrucción de activos que impida continuar el objeto.  
+   408→  - b) Decisión de la Asamblea General de acuerdo con los estatutos.  
+   409→- **Artículo 23**: Los estatutos rigen desde la fecha de aprobación.
+   410→
+   411→==== mamauba-8.json ====
+   412→### Identificación del Documento  
+   413→- **Formulario**: Formulario del Registro Único Tributario  
+   414→- **Número de formulario**: 14917827162  
+   415→- **Concepto**: 02 (Actualización)  
+   416→- **Fecha de generación del PDF**: 01-06-2023 11:24:02AM  
+   417→
+   418→
+   419→### Datos Tributarios  
+   420→- **Número de Identificación Tributaria (NIT)**: 901662513  
+   421→- **DV (Dígito de Verificación)**: 5  
+   422→- **Dirección seccional**: Impuestos de Medellín  
+   423→
+   424→
+   425→### Identificación del Contribuyente  
+   426→- **Tipo de contribuyente**: Persona jurídica  
+   427→- **Tipo de documento**: 1  
+   428→- **Lugar de expedición**: (No especificado)  
+   429→- **País**: (No especificado)  
+   430→- **Departamento**: (No especificado)  
+   431→- **Ciudad/Municipio**: (No especificado)  
+   432→- **Razón social**: CORPORACIÓN MAMAUBA  
+   433→- **Nombre comercial**: (No especificado)  
+   434→- **Sigla**: (No especificado)  
+   435→
+   436→
+   437→### Ubicación  
+   438→- **País**: COLOMBIA  
+   439→- **Departamento**: 169 (Antioquia)  
+   440→- **Ciudad/Municipio**: 05 (Envigado)  
+   441→- **Dirección principal**: CR 40 A 40 F SUR 51 IN 103  
+   442→- **Correo electrónico**: corpomamauba@gmail.com  
+   443→- **Código postal**: (No especificado)  
+   444→- **Teléfono 1**: 3016906973  
+   445→- **Teléfono 2**: 3002929196  
+   446→
+   447→
+   448→### Clasificación  
+   449→- **Actividad principal**:  
+   450→  - Código: 9499  
+   451→  - Fecha inicio actividad: 20221028  
+   452→- **Actividad secundaria**: (No especificado)  
+   453→- **Otras actividades**:  
+   454→  - Código: 1  
+   455→  - Código: 2  
+   456→- **Ocupación**: (No especificado)  
+   457→- **Número de establecimientos**: (No especificado)  
+   458→
+   459→
+   460→### Responsabilidades, Calidades y Atributos  
+   461→- **Código 53**: 5 7 1 4 4 2 5 5  
+   462→- **Descripción**:  
+   463→  - 05- Impto. renta y compl. régimen ordinar  
+   464→  - 07- Retención en la fuente a título de rent  
+   465→  - 14- Informante de exogena  
+   466→  - 42- Obligado a llevar contabilidad  
+   467→  - 55- Informante de Beneficiarios Finales  
+   468→
+   469→
+   470→### Obligados aduaneros y Exportadores  
+   471→- **Obligados aduaneros**: (No especificado)  
+   472→- **Exportadores**:  
+   473→  - Forma: (No especificado)  
+   474→  - Tipo: (No especificado)  
+   475→  - Servicio: 1  
+   476→  - Modo: (No especificado)  
+   477→  - CPC: (No especificado)  
+   478→
+   479→
+   480→### Otros Datos  
+   481→- **Anexos**: SÍ (marcado con "X")  
+   482→- **No. de Folios**: 5  
+   483→- **Fecha**: 2023-06-01 / 11:23:33  
+   484→- **Firma del solicitante**: (No especificado)  
+   485→- **Nombre del autorizado**: ROZO GIRALDO YOLANDA CECILIA  
+   486→- **Cargo del autorizado**: Gestor III  
+   487→
+   488→
+   489→### Notas Importantes  
+   490→- **Texto legal**: "Sin perjuicio de las actualizaciones a que haya lugar, la Inscripción en el Registro Único Tributario -RUT-, tendrá vigencia indefinida y en consecuencia no se exigirá su renovación"  
+   491→- **Uso exclusivo**: Para uso exclusivo de la DIAN  
+   492→- **Verificación**: "Sin perjuicio de las verificaciones que la DIAN realice"  
+   493→- **Firma autorizada**: (No especificado)  
+   494→- **Parágrafo legal**: "La información suministrada a través del formulario oficial de inscripción, actualización, suspensión y cancelación del Registro Único Tributario (RUT), deberá ser exacta y veraz; en caso de constatar inexactitud en alguno de los datos suministrados se adelantarán los procedimientos administrativos sancionatorios o de suspensión, según el caso. Parágrafo del artículo 1.6.1.2.20 del Decreto 1625 de 2016"
+   495→
+   496→
